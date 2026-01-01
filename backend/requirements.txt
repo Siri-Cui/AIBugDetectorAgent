@@ -1,0 +1,34 @@
+
+
+# Web框架
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# 数据验证
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# 数据库
+sqlalchemy==2.0.21
+alembic==1.12.1
+
+# 缓存
+redis==5.0.1
+aioredis==2.0.1
+
+# AI框架
+langchain==0.0.350
+zhipuai==2.1.4
+
+# 文件处理
+aiofiles==23.2.1
+python-magic==0.4.27
+
+# 配置管理
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# 工具
+requests==2.31.0
+httpx==0.25.2
